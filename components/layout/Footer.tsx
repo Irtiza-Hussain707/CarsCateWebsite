@@ -7,9 +7,8 @@ import Typography from "@/components/reusbleComponents/Typography";
 
 export default function Footer() {
   const socials = [
-    { icon: <FaInstagram />, link: "https://instagram.com" },
-    { icon: <FaFacebookF />, link: "https://facebook.com" },
-    { icon: <FaYoutube />, link: "https://youtube.com" },
+    { icon: <FaInstagram />, link: "https://www.instagram.com/carscate/" },
+    { icon: <FaFacebookF />, link: "https://www.facebook.com/profile.php?id=61590479054239" },
   ];
 
   const services = [
